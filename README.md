@@ -4,7 +4,7 @@ Bem-vindo ao aluraplus! Este projeto foi desenvolvido como parte do curso de HTM
 
 ## Visite o Site
 
-Você pode acessar aluraplus através deste [link](#).
+Você pode acessar aluraplus através deste [link](https://felipem7k.github.io/aluraplus/).
 
 ## Tecnologias Utilizadas
 
