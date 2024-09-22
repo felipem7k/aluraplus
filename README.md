@@ -1,10 +1,10 @@
 # Aluraplus
 
-Bem-vindo ao aluraplus! Este projeto foi desenvolvido como parte do curso de HTML e CSS da Alura. Nele, você encontrará uma apresentação dos meus projetos e habilidades.
+Bem-vindo ao aluraplus! Este projeto foi desenvolvido como parte do curso de HTML e CSS da Alura. Nele, você encontrará um site fictício de streaming baseado no Disney+.
 
 ## Visite o Site
 
-Você pode acessar aluraplus através deste [link](#).
+Você pode acessar aluraplus através deste [link](https://felipem7k.github.io/aluraplus/).
 
 ## Tecnologias Utilizadas
 
